@@ -13,3 +13,4 @@ format_strings                  = true
 imports_layout                  = "HorizontalVertical"
 wrap_comments                   = true
 tab_spaces                      = 2
+max_width                       = 80
